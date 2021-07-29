@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Recep</h1>
+<h1 align="center">Flutter Faydalı Kaynak Listesi</h1>
 <h3 align="center">Türkiye'den tutkulu bir mobil geliştirici</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=rdfs&label=Profile%20views&color=0e75b6&style=flat" alt="rdfs" /> </p>

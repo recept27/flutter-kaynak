@@ -12,6 +12,7 @@
 
 
 <a href="https://linkedin.com/in/sdfsdfs" target=" boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdfsdfs" height="30" width="40" />  
+  
 <a href="https://instagram.com/sdfsdf " target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="sdfsdf" height="30" width="40" /></a>
 <a href="https://medium.com/sdfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sdfs" height="30" width="40" /></a>
   

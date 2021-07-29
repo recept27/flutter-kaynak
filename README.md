@@ -9,12 +9,13 @@
 
 <h3 align="left ">Benimle bağlantı kurun:</h3>
 <p align="left">
+<a href="mailto:receptas.media@gmail.com"> receptas.media@gmail.com </a>
 
 
-<a href="https://linkedin.com/in/sdfsdfs" target=" boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdfsdfs" height="30" width="40" />  
   
-<a href="https://instagram.com/sdfsdf " target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="sdfsdf" height="30" width="40" /></a>
-<a href="https://medium.com/sdfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sdfs" height="30" width="40" /></a>
+<a href="https://instagram.com/sdfsdf " target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="sdfsdf" height="30" width="30" /></a>
+  <a href="https://medium.com/sdfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sdfs" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/sdfsdfs" target=" boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdfsdfs" height="30" width="30" />  
   
 </p>
 <h3 align="left ">teknolojiler:</h3>

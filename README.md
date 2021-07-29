@@ -10,7 +10,7 @@
 <h3 align="left ">Benimle bağlantı kurun:</h3>
 <p align="left">
 
-<a href="https ://twitter.com/sdfsd" target="boş"><img hizalama="merkez" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/twitter.svg" alt="sdfsd" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/sdfsdfs" target=" boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdfsdfs" height="30" width="40" />< /a>
   
 <a href="https://fb.com/sdfsd" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="sdfsd" height="30" width="40" /></a>

@@ -3,13 +3,7 @@
 
 <p align="left"> </p>
 
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdfs" alt="rdfs" /></a > </p>
 
-<p align="left"> <a href="https://twitter.com/sdfsd" target="blank"><img src="https://img.shields.io/twitter /follow/sdfsd?logo=twitter&style=rozet için" alt="sdfsd" /></a> </p>
-
-- 📝 [linkblog](linkblog)
-
-hakkında düzenli olarak makaleler yazıyorum - 💬 Bana **flutter** hakkında soru sorun
 
 - ⚡ Eğlenceli gerçek **liste**
 

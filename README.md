@@ -24,5 +24,6 @@
 <h3 align="left ">Medium içerikleri:</h3>
 <h3 align="left ">Farklı kaynaklar:</h3>
 <a href="https://developers.google.com/blockly" target="blank">Blokly</a> <br>
-<a href="https://tr.khanacademy.org/computing/computer-science/algorithms" target="blank">Algoritma Öğren</a>
+<a href="https://tr.khanacademy.org/computing/computer-science/algorithms" target="blank">Algoritma Öğren</a><br>
+<a href="https://material.io/" target="blank">Android tasarım ve matariyeller için</a>
 

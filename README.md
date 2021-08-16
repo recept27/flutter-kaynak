@@ -27,4 +27,9 @@
 <a href="https://tr.khanacademy.org/computing/computer-science/algorithms" target="blank">Algoritma Öğren</a><br>
 <a href="https://material.io/" target="blank">Android tasarım ve matariyeller için</a><br>
 <a href="https://yaz.in/assets/flutter/Flutter%20Cheat%20Sheet.pdf" target="blank">Flutter Not PDF</a>
+<a href="https://cheatography.com/kahmic16/cheat-sheets/flutter/pdf/" target="blank">Flutter Not PDF 1</a><br>
+<a href="https://yaz.in/assets/flutter/Flutter%20Cheat%20Sheet.pdf" target="blank">Flutter Not PDF 2</a><br>
+<a href="https://yaz.in/assets/flutter/Flutter%20Cheat%20Sheet.pdf" target="blank">Flutter Not PDF 3</a><br>
+<a href="https://yaz.in/assets/flutter/Flutter%20Cheat%20Sheet.pdf" target="blank">Flutter Not PDF 4</a><br>
+<a href="https://yaz.in/assets/flutter/Flutter%20Cheat%20Sheet.pdf" target="blank">Flutter Not PDF 5</a><br>
 

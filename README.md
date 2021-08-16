@@ -45,6 +45,7 @@ https://discord.com/invite/N7Yshp4
 https://www.reddit.com/r/FlutterDev/
 https://medium.com/flutter
 https://hashnode.com/
+https://www.developerlibs.com/
 
 https://flutter.dev/docs/reference/widgets
 https://api.flutter.dev/

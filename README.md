@@ -53,10 +53,16 @@
 <a href="https://morioh.com/" target="blank">Yazılım Sosyal medya</a><br>
 <a href="https://www.reddit.com/r/FlutterDev/comments/8gofu0/flutter_layout_cheat_sheet/" target="blank">Reddit Topluluk</a><br>
 <a href="https://dev.to/" target="blank">Dev.to</a><br>
+
+
 <a href="https://bs-uploads.toptal.io/blackfish-uploads/gated_content_article_page/content/attachment_file/attachment/28693/DartLanguageCheatSheet-e60b3291e2dbe9ffe2a53ebdf0cd7442.pdf" target="blank">Flutter Not PDF 5</a><br>
+
 <a href="https://bs-uploads.toptal.io/blackfish-uploads/gated_content_article_page/content/attachment_file/attachment/28693/DartLanguageCheatSheet-e60b3291e2dbe9ffe2a53ebdf0cd7442.pdf" target="blank">Flutter Not PDF 6</a><br>
+
 <a href="https://bs-uploads.toptal.io/blackfish-uploads/gated_content_article_page/content/attachment_file/attachment/28693/DartLanguageCheatSheet-e60b3291e2dbe9ffe2a53ebdf0cd7442.pdf" target="blank">Flutter Not PDF 57</a><br>
+
 <a href="https://bs-uploads.toptal.io/blackfish-uploads/gated_content_article_page/content/attachment_file/attachment/28693/DartLanguageCheatSheet-e60b3291e2dbe9ffe2a53ebdf0cd7442.pdf" target="blank">Flutter Not PDF 5</a><br>
+
 <a href="https://bs-uploads.toptal.io/blackfish-uploads/gated_content_article_page/content/attachment_file/attachment/28693/DartLanguageCheatSheet-e60b3291e2dbe9ffe2a53ebdf0cd7442.pdf" target="blank">Flutter Not PDF 5</a><br>
 
 https://github.com/myagan/Flutter-Egitim-Kaynaklari

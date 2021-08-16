@@ -22,6 +22,28 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank">  </a> <a href="https://dart.dev" target="_blank "> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>   </p>
 
 <h3 align="left ">Medium içerikleri:</h3>
+
+
+<h3 align="left ">Youtube kaynaklar:</h3>
+
+<a href="https://www.youtube.com/user/kesali/videos" target="blank">Kanal 1</a> <br>
+<a href="https://www.youtube.com/watch?v=nAxc6zViHWo&list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET" target="blank">kanal2</a><br>
+<a href="https://www.youtube.com/watch?v=rzTpk849ktA&list=PL0-7Xi0GB3teRqkuBusUEcVrP6OlYpD9w&index=39" target="blank">Kanal3</a><br>
+<a href="https://www.youtube.com/watch?v=ZHq8oihSG84&list=PL0-7Xi0GB3tdgQ72k99XCVksiIIYX6dRu" target="blank">Kanal4</a>
+<a href="https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV" target="blank">kanal 5</a><br>
+<a href="https://www.youtube.com/watch?v=tBzJOb2Dopg&list=PL0iaWPijZ-OdI59_nJWTb9-7Ec6h7U-Eo" target="blank">kanal 6</a><br>
+<a href="https://www.youtube.com/watch?v=aVZ5rsA4Yx8&list=PLR2qQy0Zxs_Wot7YfLeeKdMlJ9838C_w0&index=3" target="blank">kanal7</a><br>
+<a href="https://www.youtube.com/c/flutterdev/videos" target="blank">Kanal 8</a><br>
+
+
+
+
+
+
+
+
+
+
 <h3 align="left ">Farklı kaynaklar:</h3>
 <a href="https://developers.google.com/blockly" target="blank">Blokly</a> <br>
 <a href="https://tr.khanacademy.org/computing/computer-science/algorithms" target="blank">Algoritma Öğren</a><br>
@@ -37,7 +59,7 @@
 <a href="https://bs-uploads.toptal.io/blackfish-uploads/gated_content_article_page/content/attachment_file/attachment/28693/DartLanguageCheatSheet-e60b3291e2dbe9ffe2a53ebdf0cd7442.pdf" target="blank">Flutter Not PDF 5</a><br>
 <a href="https://bs-uploads.toptal.io/blackfish-uploads/gated_content_article_page/content/attachment_file/attachment/28693/DartLanguageCheatSheet-e60b3291e2dbe9ffe2a53ebdf0cd7442.pdf" target="blank">Flutter Not PDF 5</a><br>
 
-
+https://github.com/myagan/Flutter-Egitim-Kaynaklari
 https://www.merttoptas.com/
 https://www.flutterforum.org/
 https://gitter.im/flutter/flutter

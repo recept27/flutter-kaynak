@@ -39,6 +39,15 @@
 
 
 https://www.merttoptas.com/
+https://www.flutterforum.org/
+https://gitter.im/flutter/flutter
+https://discord.com/invite/N7Yshp4
+https://www.reddit.com/r/FlutterDev/
+https://medium.com/flutter
+https://hashnode.com/
+
+https://flutter.dev/docs/reference/widgets
+https://api.flutter.dev/
 
 https://searchcode.com/
 https://www.tickgit.com/

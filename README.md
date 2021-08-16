@@ -23,5 +23,4 @@
 
 <h3 align="left ">Medium içerikleri:</h3>
 <h3 align="left ">Farklı kaynaklar:</h3>
-<a href="https://developers.google.com/blockly" target="blank"><img align="center" src="https://developers.google.com/blockly
-" alt="sdfs" height="30" width="30" /></a>
+<a href="https://developers.google.com/blockly" target="blank">Blokly</a>

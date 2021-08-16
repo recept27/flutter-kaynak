@@ -29,7 +29,7 @@
 <a href="https://yaz.in/assets/flutter/Flutter%20Cheat%20Sheet.pdf" target="blank">Flutter Not PDF</a>
 <a href="https://cheatography.com/kahmic16/cheat-sheets/flutter/pdf/" target="blank">Flutter Not PDF 1</a><br>
 <a href="https://morioh.com/" target="blank">Yazılım Sosyal medya</a><br>
-<a href="https://yaz.in/assets/flutter/Flutter%20Cheat%20Sheet.pdf" target="blank">Flutter Not PDF 3</a><br>
+<a href="https://www.reddit.com/r/FlutterDev/comments/8gofu0/flutter_layout_cheat_sheet/" target="blank">Reddit Topluluk</a><br>
 <a href="https://yaz.in/assets/flutter/Flutter%20Cheat%20Sheet.pdf" target="blank">Flutter Not PDF 4</a><br>
 <a href="https://yaz.in/assets/flutter/Flutter%20Cheat%20Sheet.pdf" target="blank">Flutter Not PDF 5</a><br>
 

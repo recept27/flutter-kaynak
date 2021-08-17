@@ -89,15 +89,19 @@
 
 <a href="https://searchcode.com/" target="blank">searchcode site linki</a><br>
 
-<a href="https://medium.com/flutterpub" target="blank">Flutterpub medium</a><br>
+<a href="https://www.tickgit.com/" target="blank">Tickgit site linki</a><br>
+
+<a href="https://sourcegraph.com/search" target="blank">sourcegraph site linki</a><br>
+
+<a href="https://flutterdersleri.com/" target="blank">Flutter Dersleri site linki</a><br>
+
+<a href="https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf" target="blank">pdf link 1</a><br>
+
+<a href="https://blog.couchbase.com/wp-content/uploads/2018/11/CB1.8.1JavaCheatSheet-Preview.pdf" target="blank">pdf link 2</a><br>
 
 
-https://searchcode.com/
-https://www.tickgit.com/
-https://sourcegraph.com/search
 
-https://flutterdersleri.com/
-https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf
+
 
 https://blog.couchbase.com/wp-content/uploads/2018/11/CB1.8.1JavaCheatSheet-Preview.pdf
 http://ec2-54-149-119-135.us-west-2.compute.amazonaws.com/brochures/DartCheatSheet.pdf?fbclid=IwAR3uBlTFUoeYfKraKVOxgdVvvXzYXNJPV4L5MnT2leICLKMC_AQ4ihAvgqA

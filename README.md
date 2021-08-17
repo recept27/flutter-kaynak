@@ -69,15 +69,28 @@
 <a href="https://gitter.im/flutter/flutter
 " target="blank">Flutter Gitter.im</a><br>
 
+<a href="https://discord.com/invite/N7Yshp4" target="blank">Discord Kanalı</a><br>
 
-https://discord.com/invite/N7Yshp4
-https://www.reddit.com/r/FlutterDev/
-https://medium.com/flutter
-https://hashnode.com/
-https://www.developerlibs.com/
-https://medium.com/flutterpub
-https://flutter.dev/docs/reference/widgets
-https://api.flutter.dev/
+<a href="https://www.reddit.com/r/FlutterDev/" target="blank">Flutter Reddit kanalı</a><br>
+
+<a href="https://medium.com/flutter" target="blank">Flutter Medium linki</a><br>
+
+<a href="https://hashnode.com/" target="blank">Hashnode Uygulama linki</a><br>
+
+<a href="https://www.developerlibs.com/" target="blank">Developer libs site linki</a><br>
+
+<a href="https://medium.com/flutterpub" target="blank">Flutterpub medium</a><br>
+
+-----
+
+<a href="https://flutter.dev/docs/reference/widgets" target="blank">Flutter Widgets hazır</a><br>
+
+<a href="https://api.flutter.dev/" target="blank">Flutter api linki</a><br>
+
+<a href="https://searchcode.com/" target="blank">searchcode site linki</a><br>
+
+<a href="https://medium.com/flutterpub" target="blank">Flutterpub medium</a><br>
+
 
 https://searchcode.com/
 https://www.tickgit.com/

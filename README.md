@@ -66,11 +66,10 @@
 <a href="https://www.flutterforum.org/
 " target="blank">Flutter Formu</a><br>
 
-<a href="https://bs-uploads.toptal.io/blackfish-uploads/gated_content_article_page/content/attachment_file/attachment/28693/DartLanguageCheatSheet-e60b3291e2dbe9ffe2a53ebdf0cd7442.pdf" target="blank">Flutter Not PDF 5</a><br>
+<a href="https://gitter.im/flutter/flutter
+" target="blank">Flutter Gitter.im</a><br>
 
 
-https://www.flutterforum.org/
-https://gitter.im/flutter/flutter
 https://discord.com/invite/N7Yshp4
 https://www.reddit.com/r/FlutterDev/
 https://medium.com/flutter

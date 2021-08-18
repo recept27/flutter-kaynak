@@ -4,7 +4,6 @@
 <p align="left"> </p>
 
 
-
 - ⚡ Eğlenceli gerçek **liste**
 
 <h3 align="left ">Benimle bağlantı kurun:</h3>

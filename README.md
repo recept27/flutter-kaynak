@@ -34,7 +34,7 @@
 <a href="https://www.youtube.com/watch?v=aVZ5rsA4Yx8&list=PLR2qQy0Zxs_Wot7YfLeeKdMlJ9838C_w0&index=3" target="blank">kanal7</a><br>
 <a href="https://www.youtube.com/c/flutterdev/videos" target="blank">Kanal 8</a><br>
 
-
+ 
 
 
 

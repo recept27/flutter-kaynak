@@ -112,3 +112,4 @@ https://www.notion.so/
 
 substack.com
 https://www.indiehackers.com/
+https://www.podia.com/

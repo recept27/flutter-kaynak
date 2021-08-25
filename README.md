@@ -138,3 +138,5 @@ https://www.plugandplaytechcenter.com/travel/
 https://github.com/roberthenley/flutter_development_roadmap/blob/main/index.md
 
 https://www.splashcopywriters.com/blog/types-of-marketing/
+
+https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905
